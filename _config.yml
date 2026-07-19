@@ -21,7 +21,7 @@ title                    : "小时代歌舞厅"
 title_separator          : "-"
 subtitle                 : "塑料地球仪的个人主页"
 name                     : "塑料地球仪"
-description              : "请输入文本"
+description              : "点击输入文本"
 url                      : "https://plastic-globe.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/plastic-globe/plastic-globe.github.io"
@@ -117,7 +117,7 @@ author:
   name             : "塑料地球仪"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "点击输入文本"
-  location         : "Suzhou China"
+  location         : "Nanjing/Suzhou, China"
   email            :  3048404077@qq.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
