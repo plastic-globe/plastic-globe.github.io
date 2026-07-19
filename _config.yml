@@ -116,9 +116,9 @@ analytics:
 author:
   name             : "塑料地球仪"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a person."
-  location         : "Somewhere"
-  email            :
+  bio              : "点击输入文本"
+  location         : "Suzhou China"
+  email            :  3048404077@qq.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
