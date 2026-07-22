@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "关于此人"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://plastic-globe.github.io/_pages/about.md
   - title: "学习 工作 上班"
-    url: /year-archive/
+    url: https://plastic-globe.github.io/_pages/study_work.md
   - title: "饮食 睡觉 闲谈"
-    url: /collection-archive/
+    url: https://plastic-globe.github.io/_pages/chat.md
